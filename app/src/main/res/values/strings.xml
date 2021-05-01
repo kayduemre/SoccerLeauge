@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Soccer Leauge</string>
+    <string name="draw_fixture">Draw Fixture</string>
+    <string name="teams">Teams</string>
+    <string name="dummy_text">1.</string>
+    <string name="team_name">Fenerbahçe</string>
+</resources>
