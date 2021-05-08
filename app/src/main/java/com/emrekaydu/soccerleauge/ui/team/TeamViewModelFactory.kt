@@ -14,6 +14,6 @@ class TeamViewModelFactory: ViewModelProvider.Factory {
                 repository = SoccerLeaugeRepository(App.retrofit!!)
             ) as T
         }
-        throw IllegalArgumentException("unknow")
+        throw IllegalArgumentException("unknown")
     }
 }
