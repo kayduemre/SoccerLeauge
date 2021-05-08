@@ -1,5 +1,4 @@
 # Soccer League
-## _The Last Markdown Editor, Ever_
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
@@ -25,6 +24,8 @@ Soccer League uses a number of open source projects to work properly:
 
 ## Screen Shot
 ![alt text](https://github.com/kayduemre/SoccerLeauge/blob/main/page1.jpeg)
+
+
 ![alt text](https://github.com/kayduemre/SoccerLeauge/blob/main/page2.jpeg)
 ## Referance
 Round-robin tournament
