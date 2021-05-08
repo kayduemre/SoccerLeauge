@@ -24,7 +24,7 @@ Soccer League uses a number of open source projects to work properly:
 - [retrofit + gson + okhtt] - It makes it relatively easy to retrieve and upload JSON (or other structured data) via a REST based webservice. 
 
 ## Screen Shot
-
+![alt text](https://github.com/kayduemre/SoccerLeauge/page1.jpg?raw=true)
 ## Referance
 Round-robin tournament
 Circle method
