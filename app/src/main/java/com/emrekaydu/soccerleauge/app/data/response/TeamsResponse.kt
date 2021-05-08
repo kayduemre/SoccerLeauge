@@ -10,15 +10,15 @@ data class TeamsResponse(
     @SerializedName("statusCode")
     val statusCode: Int,
     @SerializedName("teams")
-    val teams: List<Team>
+    val teams: ArrayList<Team>
 ): Parcelable
 
 @Parcelize
 data class Team(
     @SerializedName("id")
-    val id: Int,
+    var id: Int,
     @SerializedName("logo")
     val logo: String,
     @SerializedName("teamName")
-    val teamName: String
+    var teamName: String
 ): Parcelable

@@ -4,4 +4,7 @@
     <string name="teams">Teams</string>
     <string name="dummy_text">1.</string>
     <string name="team_name">Fenerbahçe</string>
+    <string name="dummy_week">Week 1</string>
+    <string name="seasonone">1. Sezon</string>
+    <string name="seasonTwo">2. Sezon</string>
 </resources>
